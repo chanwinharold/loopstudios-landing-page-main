@@ -31,6 +31,7 @@ button, input, textarea, select {
 img, picture, video, canvas, svg {
   display: block;
   max-width: 100%;
+  cursor: pointer;
 }
 
 table {
